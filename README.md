@@ -17,7 +17,7 @@ Define 'app' namespace on root view in your layout
 ```xml
 xmlns:app="http://schemas.android.com/apk/res-auto"
 ```
-Include this progress bar library in your layout
+Include this RoundCornerImageView library in your layout
 ```xml
  <org.devloper.melody.roundcornerimageview.RoundCornerImageView
         android:layout_marginTop="10dp"
